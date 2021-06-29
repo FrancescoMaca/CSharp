@@ -4,7 +4,8 @@ This application simulates some of the algorithms that the CPU uses to schedlue 
 
 ## How to use it??
 It's really simple to use this program. I think the UI is pretty intuitive.
-![SettingsTab](https://github.com/FrancescoMaca/FrancescoMaca/tree/main/images/CPUScheduler_Settings.png)
+
+<img src="https://github.com/FrancescoMaca/FrancescoMaca/blob/main/images/CPUScheduler_Settings.png" alt="CPU Scheduling Settings Tab" height="350">
 
 ## Bugs
 
