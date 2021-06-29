@@ -9,5 +9,8 @@ It's really simple to use this program.
 ## Bugs
 
 _- The graph can be buggy when resizing the window._
+
 _- The "Clear" button doesn't remove the context/mode swtich._
+
 _- There is no "external saving" file, the plan was to use the settings.xml to save a file with the settings in %appdata%._
+
