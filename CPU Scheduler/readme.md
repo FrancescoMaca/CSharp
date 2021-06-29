@@ -19,6 +19,7 @@ The algorithms you can choose from are:
 
 - Priority
 
+All algorithms have their own description built-in in the application, but if you want to learn more about them check out [this link](https://www.guru99.com/cpu-scheduling-algorithms.html).
 
 The options the dispatcher has are: 
 
@@ -33,7 +34,10 @@ different privileges (`User-Kernel mode switch`).
 
 <img src="https://github.com/FrancescoMaca/FrancescoMaca/blob/main/images/CPUScheduler_process.png" alt="CPU Scheduling Process Tab">
 
-This is the process list view tab, which contains all the process you will give to the scheduling algorithm.
+This is the process list view tab, which contains all the process you will give to the scheduling algorithm. Each process has its own arrival time, duration and name.
+THey all have their own PID and I've added some esthetic features like the color and, if a process has kernel-mode enabled, it has a little star near its name.
+
+
 ## Bugs
 
 _- The graph can be buggy when resizing the window._
