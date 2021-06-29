@@ -3,8 +3,8 @@
 This application simulates some of the algorithms that the CPU uses to schedlue the execution of processes. This application is still in beta, some features like the dark-light mode and the SRTF algorithm don't work!
 
 ## How to use it??
-It's really simple to use this program. 
-![alt text](http://url/to/img.png)
+It's really simple to use this program. I think the UI is pretty intuitive.
+![SettingsTab](https://github.com/FrancescoMaca/FrancescoMaca/tree/main/images/CPUScheduler_Settings.png)
 
 ## Bugs
 
