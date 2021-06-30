@@ -1,0 +1,4 @@
+﻿TODO:
+- The dragged file's processes' IDs needs to be checked if they already exists!!!
+- Check all the files for naming conventions
+- Update this list
