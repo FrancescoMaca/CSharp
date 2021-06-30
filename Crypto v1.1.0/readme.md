@@ -26,7 +26,7 @@ It needs to be between `1` and `32` characters long though.
 ## 🔵 Output Data<br />
 This section gives you information about the application status and about the `file size`.
 
-<img src="https://github.com/FrancescoMaca/FrancescoMaca/blob/main/images/Crypto_info.png" alt="Crypto UI with markup">
+<img src="https://github.com/FrancescoMaca/FrancescoMaca/blob/main/images/Crypto_info.png" alt="Crypto UI with markup" height=350>
 
 
 ## Bugs
