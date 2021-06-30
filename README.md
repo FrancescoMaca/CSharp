@@ -22,3 +22,4 @@ In this repository I'll share all C# Projects I've made, you can contribute cont
 
 🟢 _small bug_
 ```
+## Version: x.x.x.x
