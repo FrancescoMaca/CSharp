@@ -34,7 +34,7 @@ different privileges (`User-Kernel mode switch`).
 <img src="https://github.com/FrancescoMaca/FrancescoMaca/blob/main/images/CPUScheduler_process.png" alt="CPU Scheduling Process Tab">
 
 This is the process list view tab, which contains all the process you will give to the scheduling algorithm. Each process has its own arrival time, duration and name.
-THey all have their own PID and I've added some esthetic features like the color and, if a process has kernel-mode enabled, it has a little star near its name.
+They all have their own PID and I've added some esthetic features like the color and, if a process has kernel-mode enabled, it has a little star near its name.
 
 From there you can add or remove existing processes and you can also import/export a `.prc` file with the program configuration.
 
