@@ -21,5 +21,6 @@ In this repository I'll share all C# Projects I've made, you can contribute cont
 🟠 _severe bug_
 
 🟢 _small bug_
+
+## Version w.x.y.z
 ```
-## Version: x.x.x.x
