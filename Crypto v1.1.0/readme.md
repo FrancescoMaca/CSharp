@@ -31,15 +31,15 @@ This section gives you information about the application status and about the `f
 
 ## Bugs
 
-🔴 _Several graphical/logical bugs when using the `folder` option.
+🔴 _Several graphical/logical bugs when using the `folder` option._
 
-🟠 _The starting operation is too slow.
+🟠 _The starting operation is too slow._
 
-🟠 _Sometimes the loading bar can be not synced with the action the program's doing.
+🟠 _Sometimes the loading bar can be not synced with the action the program's doing._
 
-🟢 _Moving the window fast produces massive draw lag.
+🟢 _Moving the window fast produces massive draw lag._
 
-🟢 _Graphic bug when pressing the `Show Password` button (lasts for ~0.5 sec).
+🟢 _Graphic bug when pressing the `Show Password` button (lasts for ~0.5 sec)._
 
 
 ### Version: 1.1.0
