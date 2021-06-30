@@ -55,3 +55,5 @@ The program is still in beta, so most of the bugs are not mentioned here, i just
 🟢 _The "Clear" button doesn't remove the context/mode swtich._
 
 🟠 _There is no "external saving" file, the plan was to use the settings.xml to save a file with the settings in %appdata%._
+
+## Version 1.0.0
