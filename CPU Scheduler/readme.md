@@ -5,7 +5,7 @@ This application simulates some of the algorithms that the CPU uses to schedlue 
 ## How to use it??
 It's really simple to use this program. I think the UI is pretty intuitive.
 
-<img src="https://github.com/FrancescoMaca/FrancescoMaca/blob/main/images/CPUScheduler_Settings.png" alt="CPU Scheduling Settings Tab">
+<img src="https://github.com/FrancescoMaca/FrancescoMaca/blob/main/images/CPU_Scheduler_Settings.png" alt="CPU Scheduling Settings Tab">
 This is the settings tab, it contains the type of the algorithm you want to test, the time slice (which is only used in the Round Robin scheduling) and the dispatcher options.
 The algorithms you can choose from are: <br /> <br />
 
@@ -31,7 +31,7 @@ different privileges (`User-Kernel mode switch`).
 
 ---
 
-<img src="https://github.com/FrancescoMaca/FrancescoMaca/blob/main/images/CPUScheduler_process.png" alt="CPU Scheduling Process Tab">
+<img src="https://github.com/FrancescoMaca/FrancescoMaca/blob/main/images/CPU_Scheduler_Process.png" alt="CPU Scheduling Process Tab">
 
 This is the process list view tab, which contains all the process you will give to the scheduling algorithm. Each process has its own arrival time, duration and name.
 They all have their own PID and I've added some esthetic features like the color and, if a process has kernel-mode enabled, it has a little star near its name.
@@ -40,7 +40,7 @@ From there you can add or remove existing processes and you can also import/expo
 
 ---
 
-<img src="https://github.com/FrancescoMaca/FrancescoMaca/blob/main/images/CPUScheduler_graph.png" alt="CPU Scheduling Graph Tab" height=350>
+<img src="https://github.com/FrancescoMaca/FrancescoMaca/blob/main/images/CPU_Scheduler_Graph.png" alt="CPU Scheduling Graph Tab" height=350>
 
 This is the main part of the program, it shows the scheduled processes to the user and, if the dispatcher options are checked, it also shows the context/mode switches. <br />
 Choosing an algorithm it will show its description below the graph. Some of these descriptions *are taken from the interent*. <br />
